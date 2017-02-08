@@ -29,10 +29,8 @@
 
 [1]: www.baidu.com "百度"
 
-![小清新](http://n1.itc.cn/img8/wb/smccloud/fetch/2015/07/08/37346860553259958.JPEG)
-
 	插入链接与插入图片的语法很像，区别在一个 !号 
-	(注：![小清新](id)[id]: http://n1.itc.cn/img8/wb/smccloud/fetch/2015/07/08/37346860553259958.JPEG "小清新")
+	
 ## 五.粗体与斜体
 **我是粗体**
 
